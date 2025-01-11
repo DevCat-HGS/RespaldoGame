@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\My project (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\ADMIN\\My project (1)\\assets\\scripts\\gamerules\\turncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamerules\\turncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\admin\\my project (1)\\assets\\scripts\\gameplayers\\spawnplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameplayers\\spawnplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\ADMIN\\My project (1)\\assets\\scripts\\conectionphoton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\conectionphoton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\ADMIN\\My project (1)\\assets\\scripts\\gameitems\\diceroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameitems\\diceroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TurnControl.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\My project (1)\\Assets\\scripts\\GameRules\\TurnControl.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\GameRules\\TurnControl.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\My project (1)\\Assets\\scripts\\GameRules\\TurnControl.cs",
+              "RelativeToolTip": "Assets\\scripts\\GameRules\\TurnControl.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAwwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T23:52:34.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DiceRoller.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\My project (1)\\Assets\\scripts\\GameItems\\DiceRoller.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\GameItems\\DiceRoller.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\My project (1)\\Assets\\scripts\\GameItems\\DiceRoller.cs",
+              "RelativeToolTip": "Assets\\scripts\\GameItems\\DiceRoller.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T23:01:57.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpawnPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\My project (1)\\Assets\\scripts\\GamePlayers\\SpawnPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\GamePlayers\\SpawnPlayer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\My project (1)\\Assets\\scripts\\GamePlayers\\SpawnPlayer.cs",
+              "RelativeToolTip": "Assets\\scripts\\GamePlayers\\SpawnPlayer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T22:46:38.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConectionPhoton.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\My project (1)\\Assets\\scripts\\ConectionPhoton.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\ConectionPhoton.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\My project (1)\\Assets\\scripts\\ConectionPhoton.cs",
+              "RelativeToolTip": "Assets\\scripts\\ConectionPhoton.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T21:23:33.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

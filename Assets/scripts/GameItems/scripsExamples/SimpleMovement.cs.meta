@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 81366965423beaf46ab31994cb40b402
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dado1: {instanceID: 0}
+  - dado2: {instanceID: 0}
+  - dados: {instanceID: 0}
+  - launcher: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
